@@ -1,8 +1,10 @@
 # Atividade-Luiz
 atividade do codigo de 400 linhas, com Java e Html
 
-Este projeto serve para criar um gerenciador de tarefas no estilo Kanban.
-Permite criar, visualizar, atualizar e excluir tarefas, que ficam organizadas em três colunas:
+# Introdução
+**Este projeto serve para criar um gerenciador de tarefas no estilo Kanban.**
+
+**Permite criar, visualizar, atualizar e excluir tarefas, que ficam organizadas em três colunas:**
 - To-Do (a fazer)
 - Doing (fazendo)
 - Done (feito)
