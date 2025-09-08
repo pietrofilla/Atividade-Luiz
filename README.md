@@ -19,11 +19,11 @@ Permite criar, visualizar, atualizar e excluir tarefas, que ficam organizadas em
 - pronto, o "site" abrira automaticamente
 
 # Avaliação do Projeto
-# Pontos positivos
+**Pontos positivos**
   - O sistema funciona como um Kanban;
   - É util para gerenciar tarefas;
   
-# Pontos negativos
+**Pontos negativos**
   - Todo o codigo esta no mesmo arquivo
   - Usa CSV como banco de dados (pode corromper com muitos acessos).
 
